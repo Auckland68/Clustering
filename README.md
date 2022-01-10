@@ -3,6 +3,7 @@ This notebook includes projects featuring various clustering techniques includin
 
 # Projects
 * Bank Customer Segmentation
+* Marketing Data Clustering Project
 * Notebook containing various clustering projects including: 
 * - Iris dataset, 
 * - driver speed and distance dataset 
