@@ -13,4 +13,4 @@ This notebook includes projects featuring various clustering techniques includin
 * - agglomerative clustering of automobiles based on car features
 * - clustering of coin images
 * Multiple projects notebook 2 which also contains different ML techniques - scroll to clustering model:
-* - clustering of drivers based on distance travelled and speec of vehicle
+* - clustering of drivers based on distance travelled and speed of vehicle
