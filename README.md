@@ -1,4 +1,5 @@
-# Clustering Projects Notebooks including different techniques
+# Clustering Projects
+This notebook includes projects featuring various clustering techniques including - 
 
 # Projects
 * 
