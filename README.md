@@ -1,5 +1,5 @@
 # Clustering Projects
-This notebook includes projects featuring various clustering techniques including - 
+This notebook includes projects featuring various clustering techniques including - KMeans, agglomerative, DBScan, Mean Shift, BIRCH, Affinity Propagation, KMeans Mini Batch, Spectral Clustering.
 
 # Projects
 * Bank Customer Segmentation
