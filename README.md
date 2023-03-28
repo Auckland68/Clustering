@@ -14,3 +14,4 @@ This notebook includes projects featuring various clustering techniques includin
 * - clustering of coin images
 * Multiple projects notebook 2 which also contains different ML techniques - scroll to clustering model:
 * - clustering of drivers based on distance travelled and speed of vehicle
+* Music genres clustering with KMeans
